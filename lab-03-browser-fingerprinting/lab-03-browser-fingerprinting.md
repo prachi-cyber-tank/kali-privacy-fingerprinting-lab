@@ -26,7 +26,7 @@ The option **“Test your browser”** was selected.
 
 ---
 
-## 🔹 Example Test Results
+
 # LAB-03: Browser Fingerprinting (Kali Linux)
 
 ## 🎯 Objective
@@ -69,7 +69,7 @@ Timezone: Asia/Kolkata
 Languages: en-US
 
 ### Fingerprinting Result
-
+---
 
 ### Tracking Protection Result
 
